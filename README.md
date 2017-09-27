@@ -26,9 +26,12 @@ Next you should fill the grid with random values.
 Next you should smooth out the result, this uses the cellular automata algorithm on 3d, checking all 26 neighboors, make sure to test and adjust the lower and upper limits accordingly.
 After you are happy with the preview result you can click on generate mesh to create the mesh.
 
-### Break down into end to end tests
+### Known Issues
 
-
+```
+Save mesh doesnt work
+No mesh colliders added yet
+```
 
 ## Built With
 
